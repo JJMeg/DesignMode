@@ -1,1 +1,2 @@
-# DesignMode
+# DesignMode设计模式
+本项目介绍常见的设计模式以及对应的Java和Golang代码实现
